@@ -1,0 +1,1 @@
+Following Python and Django tutorial from VSC website
